@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+Allow: /index.php
+Allow: /search.php
+Allow: /view/product.php
+Allow: /view/check.php
+Disallow: /backend/view/login.php
+Disallow: /backend/view/index.php
